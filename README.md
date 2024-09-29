@@ -1,1 +1,1 @@
-# Repositório para resolução dos exercícios proposto no Curso Formacao Git e Github
+# Repositório para resolução dos exercícios propostos no Curso Formacao Git e Github DIO
