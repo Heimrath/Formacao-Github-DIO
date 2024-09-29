@@ -1,4 +1,1 @@
-# Meu Repositorio de autenticacao-DIO
-Repositório para teste de autenticações
-1. Autenticação via nome de usuário e senha
-2. Autenticação via token
+# Repositório para resolução dos exercícios proposto no Curso Formacao Git e Github
