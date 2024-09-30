@@ -8,5 +8,5 @@ segunda_entrada = input("Digite a segunda informação: ")
 resultado = primeira_entrada + " " + segunda_entrada
 
 # Exibe o resultado
-print("Resultado da concatenação:", resultado)
+print("Resultado da concatenação: ", resultado)
 
